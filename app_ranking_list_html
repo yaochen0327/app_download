@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Top Grossing Apps | US | Top App Store Rankings for iOS</title>
+<meta name="description" content="See the Top iOS Apps in US on the App Store Charts by Free, Paid, and Top Grossing. Sensor Tower provides a detailed visualization of the top ranking apps by category and country, along with app ranking changes and review ratings!"/>
+<link rel="stylesheet" media="screen" href="https://d1exy62jh2w365.cloudfront.net/assets/rankings-view-b25d6ede00635dc3b5ecfd50b69023c21ee139fea9ba418238bc9e46aeda2e6c.css" />
+  <script type="text/javascript">
+    window.BS_NOTIFIER_KEY = "b62d5d5affb5b1dc2bf8890e30b74042";
+    window.BS_RELEASE_STAGE = "production";
+  </script>
+  <script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/bugsnag-b45011c69f0628e0c60ab696a31c86d9ed1f5943e2bfdf0225c5cce11c448b9f.js"></script>
+  <script type="text/javascript">
+    window.setupBugsnag && window.setupBugsnag();
+  </script>
+
+  <script type="text/javascript">
+    console.log("Hello! You're looking under the hood! Sensor Tower is hiring someone just like you :) Email us at recruiting@sensortower.com");
+  </script>
+
+<script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/common-7d1d97e3dea556e1ef910e9b7662223e9baf681acb9fb73c3e4a3081fe8d20e0.js" crossorigin="anonymous"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RN3vS4W6MfYaeWj2yQcR8DcDzKLt8aNq00BQMrq8hvcU+oJ5GIZvxULhz6UGFhSxea05fnsUzAODtCFNrD/mEw==" />
+
+<script src="https://d1exy62jh2w365.cloudfront.net/assets/bundles/rankings-55ea937d0219ffd0b25bb66cdb169f0b1fea3ec38eb84c361122f7f108c42dcf.js" crossorigin="anonymous"></script>
+<meta id="st-user-data" content="{&quot;authorizations&quot;:{},&quot;is_signed_in&quot;:false,&quot;locale&quot;:&quot;en&quot;,&quot;limits&quot;:{}}"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="fragment" content="!">
+<link rel="shortcut icon" href="/favicon.ico"/>
+
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" sizes="196x196" href="/images/android-chrome-196x196.png">
+<link rel="icon" sizes="128x128" href="/images/android-chrome-128x128.png">
+
+<meta name="msapplication-TileColor" content="#222222" />
+<meta name="msapplication-TileImage" content="/images/logo/logo-icon.png" />
+<meta name="msapplication-square150x150logo" content="/images/logo/logo-square-150-150.png" />
+<meta name="msapplication-square310x310logo" content="/images/logo/logo-square-310-310.png" />
+<meta name="msapplication-square70x70logo" content="/images/logo/logo-square-70-70.png" />
+<meta name="msapplication-wide310x150logo" content="/images/logo/logo-square-310-150.png" />
+
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/images/apple-touch-icon-180x180-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="167x167" href="/images/apple-touch-icon-167x167-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/apple-touch-icon-152x152-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/apple-touch-icon-120x120-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/images/apple-touch-icon-76x76-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/apple-touch-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon" href="/images/apple-touch-icon-32x32.png" />
+
+</head>
+<body class="rankings-body">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41732744-1', { 'userId': '' });
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+  window.ga = ga
+
+</script>
+
+<script type="text/javascript">
+  _linkedin_partner_id = '1330330';
+  window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+  window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+<script type="text/javascript">
+  (function(){
+    var s = document.getElementsByTagName('script')[0];
+    var b = document.createElement('script');
+    b.type = 'text/javascript';
+    b.async = true;
+    b.src = 'https://snap.licdn.com/li.lms-analytics/insight.min.js';
+    s.parentNode.insertBefore(b, s);
+  })();
+</script>
+
+<script>
+
+    sense.init("6edb64137a31fa337b6f553dbccf2d8b");
+
+  sense.identify(null);
+  sense("Page Load");
+</script>
+
+
+<div class="header-menu-container" data-bind="component: 'header_menu'"></div>
+
+<!-- ko if: false -->
+<div class="sidebar-container"><div class="sidebar"><div class="sidebar-logo"></div></div></div>
+<section id="rankings" class="shadowed-st-flex-content-container">
+  <div class="shadowed-st flex-header slim flex-span-8 title-section"></div>
+  <div class="shadowed-st flex-header slim control flex-span-4 input-section"></div>
+  <div class="shadowed-st content rankings-table-container flex-span-12"></div>
+</section>
+<!-- /ko -->
+<!-- ko component: {
+  name: 'sidebar',
+  params: {
+    config: $data.sidebarConfig
+  }
+} --><!-- /ko -->
+<!-- ko component: {
+  name: 'top_charts',
+  params: {
+    os: ''
+  }
+} --><!-- /ko -->
+
+<div id="login-modal" class="modal hide custom-login general-login-modal" data-bind="with: window.sharedCustomLoginView = window.sharedCustomLoginView || new CustomLoginView($root)">
+  <a class="close" data-dismiss="modal" data-bind="click: $data.clickClose"></a>
+  <form id="login-form" method="post" action="/users/sign_in" data-bind="submit: $data.submit">
+    <input type="hidden" name="authenticity_token" value="11viydizD7FPAse+rrCB3G6F2K8BIXim9cpgJe0dfBCHfI/7RY9RgheaYO1hoYSdICstc5fEF8+lPhFa+54c9A==" />
+    <div class="header">
+      <i class="header-logo"></i>
+    </div>
+    <input type="hidden" name="return_to_path" data-bind="value: $data.returnToPath" />
+    <fieldset class="form-body">
+      <label class="st-input-icon-label-email">
+        <input class="text-input" name="user[email]" autocomplete="username" size="30" type="email" data-bind="textInput: $data.email, attr: { placeholder: $data.emailPlaceholderText }" tabindex="0" autofocus>
+      </label>
+      <!-- ko if: !$data.loginUrl() -->
+      <label class="st-input-icon-label-password">
+        <input class="text-input" name="user[password]" autocomplete="current-password" size="30" type="password" tabindex="0" data-bind="attr: { placeholder: $data.passwordPlaceholderText }">
+      </label>
+      <div class="remember-forgot-group">
+        <label class="remember-me">
+          <input type="checkbox" name="user[remember_me]" value="1" tabindex="0"><span data-bind="localizedText: 'remember_me'"></span>
+        </label>
+        <i class="remember-forget-separator">&middot;</i>
+        <a class="forgot-pass" href="/users/password/new" tabindex="0" data-bind="localizedText: 'forgot_password'"></a>
+      </div>
+      <div class="login-button-container">
+        <button class="login-button login-button-primary" type="submit" tabindex="0" data-bind="localizedText: 'log_in'"></button>
+        <a href="/users/auth/google_oauth2">
+          <button class="login-button login-button-google" type="button" tabindex="0" formnovalidate>
+            <i class="st-login-icon login-google"></i>
+            <span data-bind="localizedText: 'log_in_with_google'"></span>
+          </button>
+</a>      </div>
+      <!-- /ko -->
+      <button class="login-button login-button-primary" type="submit" tabindex="0" data-bind="visible: $data.loginUrl(), text: $data.submitLabel()"></button>
+      <!-- ko with: $data.solutionsButton -->
+      <a class="solutions-button" target="_blank" data-bind="visible: $data.visible, text: $data.text, attr: { href: $data.link }" tabindex="0"></a>
+      <!-- /ko -->
+    </fieldset>
+    <div class="footer" data-bind="visible: !$data.loginUrl()">
+      <p><span data-bind="localizedText: 'no_account'"></span> <a href="#" tabindex="0" data-bind="click: $data.swapToRegisterModal, localizedText: 'register'"></a></p>
+    </div>
+  </form>
+</div>
+
+<div id="register-modal" class="modal hide general-login-modal" data-bind="with: window.sharedRegistrationView = window.sharedRegistrationView || new RegisterModal($root)">
+  <a class="close" data-dismiss="modal" data-bind="sense: 'Onboarding - Register - Click Close'"></a>
+  <form method="post" action="/users" data-bind="submit: $data.submit">
+    <input type="hidden" name="authenticity_token" value="3VYC9WkkVHEWI2ywlJ2uyNpgeRpurpakRtBMmrxO48uNcW/H9BgKQk67y+NbjKuJlM6MxvhL+c0WJD3lqs2DLw==" />
+    <div class="header">
+      <i class="header-logo"></i>
+    </div>
+    <div class="columns">
+      <div class="column register-side-banner"></div>
+      <fieldset class="column form-body">
+        <p class="intro-blurb" data-bind="localizedText: 'intro'"></p>
+        <label class="st-input-icon-label-user">
+          <input id="name" class="text-input" name="user[name]" type="text" autofocus required tabindex="0" data-bind="
+            attr: {
+              placeholder: $data.localizedPlaceholders().name
+            },
+            event: {
+              blur: $data.applyNoTextFormValidationStyle,
+              focus: $data.applyNoTextFormValidationStyle,
+              keypress: $data.applyNoTextFormValidationStyle
+            }
+          ">
+        </label>
+        <label class="st-input-icon-label-company">
+          <input id="company" class="text-input" name="user[company_name]" type="text" required tabindex="0" data-bind="
+            attr: {
+              placeholder: $data.localizedPlaceholders().company
+            },
+            event: {
+              blur: $data.applyNoTextFormValidationStyle,
+              focus: $data.applyNoTextFormValidationStyle,
+              keypress: $data.applyNoTextFormValidationStyle
+            }
+          ">
+        </label>
+        <label class="st-input-icon-label-email">
+          <input class="text-input" name="user[email]" autocomplete="username" size="30" type="email" required tabindex="0" data-bind="
+            attr: {
+              placeholder: $data.localizedPlaceholders().email
+            },
+            event: {
+              blur: $data.applyNoTextFormValidationStyle,
+              focus: $data.applyNoTextFormValidationStyle,
+              keypress: $data.applyNoTextFormValidationStyle
+            }
+          ">
+        </label>
+        <label class="st-input-icon-label-password">
+          <input class="text-input" name="user[password]" autocomplete="new-password" size="30" type="password" required tabindex="0" data-bind="
+            attr: {
+              placeholder: $data.localizedPlaceholders().password
+            },
+            event: {
+              blur: $data.applyNoTextFormValidationStyle,
+              focus: $data.applyNoTextFormValidationStyle,
+              keypress: $data.applyNoTextFormValidationStyle
+            }
+          ">
+        </label>
+
+        <p class="tos-blurb" data-bind="localizedText: 'tos_blurb'"></p>
+
+        <input id="6236c2981ac7866bc96f5273e2576b16562ec56b766750a3" type="hidden" /><script type="application/javascript">window.SubmitWithCaptcha.register({"id":"6236c2981ac7866bc96f5273e2576b16562ec56b766750a3","callbackName":"cb6236c2981ac7866bc96f5273e2576b16562ec56b766750a3","handler":"recaptcha","sense":{"event":"Onboarding - User submits Free Signup Flow","props":{"interaction":"Sign Up For Free"}}});</script><button class="login-button login-button-primary g-recaptcha" type="submit" tabindex="0" data-bind="localizedText: &#39;sign_up_free&#39;" data-callback="cb6236c2981ac7866bc96f5273e2576b16562ec56b766750a3" data-sitekey="6LeINx0UAAAAAKdeOiSSB6m6PvoBnqy_AkN8fPos">translation missing: en.sign_up_free</button>
+
+        <a href="/users/auth/google_oauth2">
+          <button class="login-button login-button-google" tabindex="0" type="button" formnovalidate data-bind="sense: ['Onboarding - User submits Free Signup Flow', {
+            interaction: 'Log in with Google'
+          }]">
+            <i class="st-login-icon login-google"></i>
+            <span data-bind="localizedText: 'log_in_with_google'"></span>
+          </button>
+</a>      </fieldset>
+    </div>
+    <div class="footer">
+      <p data-bind="localizedText: 'sign_in'"></p>
+    </div>
+  </form>
+</div>
+
+
+<!-- ko with: new window.FooterModel($root) -->
+<footer id="responsive-footer" class="footer">
+  <div class="footer-inner-wrapper">
+    <div class="footer-column info-column">
+      <h6 data-bind="localizedText: 'info.header'"></h6>
+      <ul>
+        <li><a href="/about" data-bind="localizedText: 'info.about_us', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'About' }]"></a></li>
+        <li>
+          <a data-bind="attr: { href: $data.blogLink }, localizedText: 'info.blog', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Blog' }]"></a>
+        </li>
+        <li><a href="https://help.sensortower.com/support/solutions/44000229637" data-bind="localizedText: 'info.academy', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Academy' }]"></a></li>
+        <li>
+          <a data-bind="
+            attr: {
+              href: $data.helpLink
+            },
+            localizedText: 'info.help',
+            sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Help' }]
+          "></a>
+        </li>
+        <li><a href="/solutions" data-bind="localizedText: 'info.solutions', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Solutions' }]"></a></li>
+        <li><a href="/pricing" data-bind="localizedText: 'info.pricing', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Pricing' }]"></a></li>
+        <li><a href="/careers" data-bind="localizedText: 'info.careers', sense: ['General - Navigation - Page Footer - Click Link Under Info', { 'Item': 'Jobs' }]"></a></li>
+      </ul>
+    </div>
+
+    <div class="footer-column quick-link-column">
+      <h6 data-bind="localizedText: 'quick_links.header'"></h6>
+      <ul>
+        <li><a href="/ios/rankings/top/iphone/us/all-categories" data-bind="localizedText: 'quick_links.app_category_rankings', sense: ['General - Navigation - Page Footer - Click Link Under Quick Links', { 'Item': 'App Category Rankings' }]"></a></li>
+      </ul>
+      <h6 data-bind="localizedText: 'languages.header'"></h6>
+      <ul data-bind="foreach: $data.availableLocales">
+        <li>
+          <a data-bind="
+            attr: {
+              'data-locale': $data
+            },
+            click: $parent.setLocale,
+            text: $parent.localeInfo[$data]
+          "></a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-column recent-post-column">
+      <h6 data-bind="localizedText: 'recent_blog_posts.header'"></h6>
+      <ul id="recent-posts" class="ellip-overflow" data-bind="foreach: $data.posts">
+        <li>
+          <a target="_blank" data-bind="attr: { href: $data.url }, text: $data.title, click: $data.click"></a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-column contact-column">
+      <h6 data-bind="localizedText: 'contact_us.header'">Contact Us</h6>
+      <ul class="email-list">
+        <li class="color-lightgray"><span data-bind="localizedText: 'contact_us.general'"></span><a href="mailto:info@sensortower.com" data-bind="sense: 'General - Navigation - Page Footer - Contact General Email'">info@sensortower.com</a></li>
+        <li class="color-lightgray"><span data-bind="localizedText: 'contact_us.sales'"></span><a href="mailto:sales@sensortower.com" data-bind="sense: 'General - Navigation - Page Footer - Contact Sales Email'">sales@sensortower.com</a></li>
+        <li class="color-lightgray"><span data-bind="localizedText: 'contact_us.careers'"></span><a href="mailto:recruiting@sensortower.com" data-bind="sense: 'General - Navigation - Page Footer - Contact Jobs Email'">recruiting@sensortower.com</a></li>
+        <li class="color-lightgray"><span data-bind="localizedText: 'contact_us.press'"></span><a href="mailto:press@sensortower.com" data-bind="sense: 'General - Navigation - Page Footer - Contact Press Email'">press@sensortower.com</a></li>
+      </ul>
+      <a class="networking-icon-fb" href="https://www.facebook.com/SensorTower" target="_blank" data-bind="sense: ['General - Navigation - Page Footer - Click Social Media', { 'Social Network': 'Facebook' }]"></a>
+      <a class="networking-icon-tw" href="https://twitter.com/sensortower" target="_blank" data-bind="sense: ['General - Navigation - Page Footer - Click Social Media', { 'Social Network': 'Twitter' }]"></a>
+      <a class="networking-icon-lin" href="https://www.linkedin.com/company/sensor-tower" target="_blank" data-bind="sense: ['General - Navigation - Page Footer - Click Social Media', { 'Social Network': 'LinkedIN' }]"></a>
+    </div>
+  </div>
+</footer>
+<footer class="copy">
+  <span>2020 &copy; Sensor Tower Inc. - All Rights Reserved.</span>
+  <ul>
+    <li><a href="/privacy" data-bind="localizedText: 'policy.privacy', sense: 'General - Navigation - Page Footer - Click Privacy'"></a></li>
+    <li><a href="/tos" data-bind="localizedText: 'policy.terms', sense: 'General - Navigation - Page Footer - Click Terms'"></a></li>
+    <li><a href="/security" data-bind="localizedText: 'policy.security', sense: 'General - Navigation - Page Footer - Click Security'"></a></li>
+  </ul>
+</footer>
+<!-- /ko -->
+
+</body>
+</html>
